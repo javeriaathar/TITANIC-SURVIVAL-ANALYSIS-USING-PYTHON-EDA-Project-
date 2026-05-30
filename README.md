@@ -1,4 +1,7 @@
 # Titanic Survival Analysis - Exploratory Data Analysis (EDA)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/javeriaathar/SYNTHETIC-POPULATION-DATA-ANALYSIS-USING-PYTHON/blob/main/Population_Project.ipynb
+)
 
 ## 📌 Project Overview
 
