@@ -113,7 +113,7 @@ df["FamilySize"] = df["SibSp"] + df["Parch"]
 
 ### 1. Clone Repository
 ```bash
-https://github.com/javeriaathar/SYNTHETIC-POPULATION-DATA-ANALYSIS-USING-PYTHON.git
+https://github.com/javeriaathar/TITANIC-SURVIVAL-ANALYSIS-USING-PYTHON-EDA-Project-.git
 ```
 
 ### 2. Install Required Libraries
