@@ -109,7 +109,22 @@ df["FamilySize"] = df["SibSp"] + df["Parch"]
 * Passenger class and fare showed a noticeable relationship with survival.
 
 ---
+## 🚀 How to Run This Project
 
+### 1. Clone Repository
+```bash
+https://github.com/javeriaathar/SYNTHETIC-POPULATION-DATA-ANALYSIS-USING-PYTHON.git
+```
+
+### 2. Install Required Libraries
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+### 3. Run Python Script / Notebook
+```bash
+python titanic_analysis.py
+---
 ## 📁 Output Files
 
 * `titanic_1000.csv` – Generated dataset
