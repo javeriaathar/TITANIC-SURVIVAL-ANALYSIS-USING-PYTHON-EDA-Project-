@@ -133,9 +133,7 @@ python titanic_analysis.py
 ---
 
 ## 🚀 Learning Outcomes
-
 Through this project, I gained practical experience in:
-
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 * Data Visualization
@@ -146,9 +144,7 @@ Through this project, I gained practical experience in:
 ---
 
 ## 👩‍💻 Author
-
 **Javeria Athar**
-
 BS Computational Mathematics
 
 ---
